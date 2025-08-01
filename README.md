@@ -21,11 +21,10 @@
   <img src="https://skillicons.dev/icons?i=sass&theme=light"     height="40" alt="sass logo"/>        <img width="10"/>
   <img src="https://skillicons.dev/icons?i=js&theme=light"       height="40" alt="javascript logo"/>  <img width="10"/>
   <img src="https://skillicons.dev/icons?i=ts&theme=light"       height="40" alt="typescript logo"/>  <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=git&theme=light"     height="40" alt="git logo"/>         <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=git&theme=light"      height="40" alt="git logo"/>         <img width="10"/>
   <img src="https://skillicons.dev/icons?i=angular&theme=light"  height="40" alt="angular logo"/>     <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=vue&theme=light"      height="40" alt="vue logo"/>         <img width="10"/>
   <img src="https://skillicons.dev/icons?i=tailwind&theme=light" height="40" alt="tailwind logo"/>    <img width="10"/>
-  <img src="https://skillicons.dev/icons?i=nodejs&theme=light"   height="40" alt="node.js logo"/>        <img width="10"/>
+  <img src="https://skillicons.dev/icons?i=nodejs&theme=light"   height="40" alt="node.js logo"/>     <img width="10"/>
   <img src="https://skillicons.dev/icons?i=java&theme=light"     height="40" alt="java logo"/>        <img width="10"/>
   <img src="https://skillicons.dev/icons?i=spring&theme=light"   height="40" alt="spring logo"/>      <img width="10"/>
   <img src="https://skillicons.dev/icons?i=mysql&theme=light"    height="40" alt="mysql logo"/>       <img width="10"/>
